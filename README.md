@@ -3,13 +3,13 @@ You might have landed on this page because you want to apply at chatchamp for an
 
 Below are some points to consider before applying at chatchamp:
 
-## application format
-- attached CV in PDF format or link to updated LinkedIn profile
-- short and concise email
-- no attached Word documents
+## cover letter
+- some words expressing why you are interested in working for chatchamp are absolutely enough
 
 ## CV
 - short and concise (1-3 pages)
+- attached in PDF format or link to updated LinkedIn profile
+- no (!!!) attached Word documents
 
 ## experience
 - we want to see that your have worked for one company over a longer period of time or are willing to to so
