@@ -1,4 +1,5 @@
-Dear applicant,
+# Dear applicant,
+
 You might have landed on this page because you want to apply at chatchamp for an engineering position (good 😀) or because you got rejected after writing an application email to us (not so good, but still helpful 😬).
 
 Below are some points to consider before applying at chatchamp:
