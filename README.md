@@ -10,7 +10,7 @@ Below are some points to consider before applying at chatchamp:
 ## CV
 - short and concise (1-3 pages)
 - attached in PDF format or link to updated LinkedIn profile
-- no (!!!) attached Word documents
+- no attached Word documents
 
 ## experience
 - we want to see that your have worked for one company over a longer period of time or are willing to to so
