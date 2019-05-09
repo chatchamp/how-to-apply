@@ -6,6 +6,7 @@ Below are some points to consider before applying at chatchamp:
 
 ## cover letter
 - some words expressing why you are interested in working for chatchamp are enough, but it's always interesting to know why you want to work for chatchamp and not some other company
+- if you don't write anything and just send us your CV, why should we assume that you even really *want* to work with us
 
 ## CV
 - short and concise (1-3 pages)
