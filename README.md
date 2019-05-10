@@ -14,11 +14,12 @@ Below are some points to consider before applying at chatchamp:
 - no attached Word documents
 
 ## experience
-- we want to see that your have worked for one company over a longer period of time or are willing to to so
+- we want to see that you have worked for one company over a longer period of time or are willing to do so
 
 ## remote requirements
 - 6 hours of overlap with our time zone (CET)
 - willingness to come to Munich for 2 weeks to get to know the company and the team
+--> for that reasons we usually only consider (remote) applicants from Europe  and Africa
 
 Thanks for taking the time to read.
 Feedback is always welcome.
