@@ -19,7 +19,7 @@ Below are some points to consider before applying at chatchamp:
 ## remote requirements
 - 6 hours of overlap with our time zone (CET)
 - willingness to come to Munich for 2 weeks to get to know the company and the team
---> for that reasons we usually only consider (remote) applicants from Europe  and Africa
+--> for that reasons we usually only consider (remote) applicants who are based in Europe or Africa
 
 Thanks for taking the time to read.
 Feedback is always welcome.
