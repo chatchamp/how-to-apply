@@ -14,7 +14,7 @@ Below are some points to consider before applying at chatchamp:
 - no attached Word documents
 
 ## experience
-- in general we are more interested in your potential and like when somebody knows more than one programming language, if your experience so far is limited to 1-2 languages that are not relevant to us, this might be a deal-breaker
+- we are more interested in your potential and prefer when somebody knows more than one programming language; if your experience so far is limited to 1-2 languages that are not relevant to us, this might be a deal-breaker
 - we want to see that you have worked for one company over a longer period of time or are willing to do so
 
 ## remote requirements
